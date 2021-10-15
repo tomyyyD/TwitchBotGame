@@ -22,7 +22,6 @@ obstacles = [
     pygame.Rect((440, 0), (BLOCK_SIZE, 400)),
     pygame.Rect((340, 100), (BLOCK_SIZE, 320)),
     pygame.Rect((340, 400), (120, BLOCK_SIZE)),
-    # pygame.Rect((420, 69), (OBSTACLE_SIZE, OBSTACLE_SIZE/2)),
 ]
 
 finishLine = pygame.Rect((0, 20), (BLOCK_SIZE*4, BLOCK_SIZE*4))
